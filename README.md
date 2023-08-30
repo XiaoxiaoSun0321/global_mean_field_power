@@ -13,6 +13,8 @@ The formula of how to calculate GMFP/LMFP is listed as below:
 
 where $t$ is time; $K$ is the number of included EEG channels; $V_{i}$ is the voltage in channel $i$; $V_{mean}$ is the mean of the voltages in all channels. 
 
+Please check on how it's applied and linked to clinic findings in our group's study here: https://www.brainstimjrnl.com/article/S1935-861X(23)00803-3/fulltext
+
 ## Table of Contents
 
 - [Installation](#installation)
