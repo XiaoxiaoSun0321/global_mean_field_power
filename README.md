@@ -6,6 +6,10 @@
 
 Global/Local mean field power (GMFP/LMFP) is often used to measure the global excitability in studies of non-invasive neuromodulation treatments (such as TMS). This document shows how GMFP/LMFP was computed on a given EEG epoch.
 
+The formula of how to calculate GMFP/LMFP is listed as below:
+![Example Image](gmfp_formula.png)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
