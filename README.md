@@ -27,7 +27,7 @@ Please check on how it's applied and linked to clinic findings in our group's st
 
 ## Installation
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed. You can include code snippets or commands for clarity.
+
 
 ## Usage
 
@@ -35,9 +35,8 @@ Explain how users can use your project and provide code examples or demonstratio
 
 ## Features
 
-- Feature 1: Description of feature 1.
-- Feature 2: Description of feature 2.
-- Feature 3: Description of feature 3.
+- Feature 1: Two versions have been provided to run in both Matlab and Python. 
+- Feature 2: Example in both enviroment has been provided 
 
 ## Contributing
 
