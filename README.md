@@ -30,12 +30,12 @@ No further installation needed. Function files are directly runnable in Matlab a
 
 ## Usage
 
-Provided function file 'gmfp.m' and 'lmfp.m' that calculates the global/local mean field power from given EEG epoch. Corresponding .py file has also been provided.   
+Provided function file 'gmfp.m' and 'lmfp.m' that calculates the global/local mean field power from given EEG epoch. Corresponding python function has also been provided.   
 
 ## Features
 
 - Feature 1: Two versions have been provided to run in both Matlab and Python. 
-- Feature 2: Examples in both enviroment have been provided (see [Link to Documentation](matlab/example.mlx) and [Link to Documentation] for details). 
+- Feature 2: Examples in both enviroment have been provided (see [Matlab example](matlab/example.mlx) and [Python example] for details). 
 
 ## License
 
