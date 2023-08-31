@@ -44,8 +44,11 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Credits
 
 This constitutes a segment of our branch's efforts within the closed-loop neuromodulation project. For a more comprehensive background, I encourage you to review our series of publications.
+
 simultaneous fMRI-EEG-TMS: https://www.sciencedirect.com/science/article/pii/S1935861X23017746
+
 phase-locked closed-loop EEG-rTMS: https://www.sciencedirect.com/science/article/pii/S1935861X22000365
+
 Clinic outcomes: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4334289
 
 ## Contact
