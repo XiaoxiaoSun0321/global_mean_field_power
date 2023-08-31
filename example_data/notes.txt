@@ -1,1 +1,8 @@
-a 2D-matrix where the rows contain the observations at each time sample.
+Example data is a 2D-matrix where the rows contain the observations at each time sample from each electrode at the resting state where subject is instructed to keep eyes open or close.
+Data contains the recordings on each of the 16 EEG electrodes and was bandpass filtered to alpha (8-12Hz).  
+
+The locations of the electrodes were FP1, FP2, FC5, FC6, FZ, T7, CZ, T8, P7, P3, PZ, P4, P8, O1, Oz, and O2. 
+The reference was placed on the right earlobe and the ground at the AFZ scalp location.
+
+sample rate: 512 Hz
+time length: 10 seconds
