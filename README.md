@@ -4,7 +4,7 @@
 
 ## Description
 
-Global/Local mean field power (GMFP/LMFP) is often used to measure the global excitability in studies of non-invasive neuromodulation treatments (such as TMS). This document shows how GMFP/LMFP was computed on a given EEG epoch.
+Global/Local mean field power (GMFP/LMFP) is often used to measure the global excitability in studies of non-invasive neuromodulation treatments (such as TMS). It can also been applied to analysis other types of ERPs. This document shows how GMFP/LMFP was computed on a given EEG epoch.
 
 The formula of how to calculate GMFP/LMFP is listed as below:
 
@@ -20,7 +20,6 @@ Please check on how it's applied and linked to clinic findings in our group's st
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
@@ -31,12 +30,12 @@ No further installation needed. Function files are directly runnable in Matlab a
 
 ## Usage
 
-Provided function file 'gmfp.m' calculate  
+Provided function file 'gmfp.m' and 'lmfp.m' that calculates the global/local mean field power from given EEG epoch.   
 
 ## Features
 
 - Feature 1: Two versions have been provided to run in both Matlab and Python. 
-- Feature 2: Examples in both enviroment have been provided 
+- Feature 2: Examples in both enviroment have been provided (see [Link to Documentation] and [Link to Documentation] for details). 
 
 ## License
 
@@ -44,7 +43,10 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Credits
 
-Acknowledge and provide credit to any third-party libraries, resources, or contributors that have been instrumental in the development of your project. Provide links to their repositories or websites.
+This constitutes a segment of our branch's efforts within the closed-loop neuromodulation project. For a more comprehensive background, I encourage you to review our series of publications.
+simultaneous fMRI-EEG-TMS: https://www.sciencedirect.com/science/article/pii/S1935861X23017746
+phase-locked closed-loop EEG-rTMS: https://www.sciencedirect.com/science/article/pii/S1935861X22000365
+Clinic outcomes: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4334289
 
 ## Contact
 
