@@ -27,20 +27,16 @@ Please check on how it's applied and linked to clinic findings in our group's st
 
 ## Installation
 
-
+No further installation needed. Function files are directly runnable in Matlab and Python. 
 
 ## Usage
 
-Explain how users can use your project and provide code examples or demonstrations to illustrate its functionality. Include instructions on how to run the code, use specific features, or configure settings.
+Provided function file 'gmfp.m' calculate  
 
 ## Features
 
 - Feature 1: Two versions have been provided to run in both Matlab and Python. 
-- Feature 2: Example in both enviroment has been provided 
-
-## Contributing
-
-We welcome contributions from the community! If you would like to contribute to the project, please follow the guidelines in this section. Include instructions on how to submit bug reports, feature requests, and pull requests. You can also mention any coding conventions or branch naming conventions to be followed.
+- Feature 2: Examples in both enviroment have been provided 
 
 ## License
 
@@ -52,5 +48,5 @@ Acknowledge and provide credit to any third-party libraries, resources, or contr
 
 ## Contact
 
-For any inquiries or questions, you can reach me at [your@email.com]. Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile) for more updates and projects.
+For any inquiries or questions, you can reach me at [xiaoxiao.sun@columbia.edu]. Connect with me on [LinkedIn](https://www.linkedin.com/in/xiaoxiao-sun-b66012274/) for more updates and projects.
 
