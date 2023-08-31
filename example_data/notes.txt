@@ -1,0 +1,1 @@
+a 2D-matrix where the rows contain the observations at each time sample.
